@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ic">
+        <file>img/icon.png</file>
+        <file>img/imgonline-com-ua-Resize-AbNlVzzG03E.jpg</file>
+    </qresource>
+</RCC>
